@@ -1,4 +1,4 @@
-<b>Worldwide</b><br />
+<b>Worldwide Private / Public Response</b><br />
 Bio.org tech companies overview / covid response<br />
 https://www.bio.org/policy/human-health/vaccines-biodefense/coronavirus
 
@@ -12,3 +12,9 @@ https://covid.smartgraph.bi/
 <b>USA</b><br />
 Stanford COVID-19 Evidence Service<br />
 https://aim.stanford.edu/covid-19-evidence-service/<br />
+<br />
+---<br />
+<b>Testing</b><br />
+5 minute tests<br />
+https://www.straitstimes.com/singapore/health/singapore-scientists-on-the-front-lines-of-fight-against-covid-19<br />
+

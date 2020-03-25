@@ -1,3 +1,7 @@
+<b>Worldwide</b>
+Bio.org tech companies overview
+https://www.bio.org/policy/human-health/vaccines-biodefense/coronavirus
+
 <b>Europe</b>
 The Netherlands<br />
 https://covid.smartgraph.bi/

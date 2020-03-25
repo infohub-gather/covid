@@ -1,5 +1,5 @@
 <b>Worldwide</b><br />
-Bio.org tech companies overview<br />
+Bio.org tech companies overview / covid response<br />
 https://www.bio.org/policy/human-health/vaccines-biodefense/coronavirus
 
 <b>Europe</b><br />

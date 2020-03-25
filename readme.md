@@ -2,6 +2,9 @@
 Bio.org tech companies overview / covid response<br />
 https://www.bio.org/policy/human-health/vaccines-biodefense/coronavirus
 
+Gates Foundation therapeutics accelerator<br />
+https://www.gatesfoundation.org/TheOptimist/coronavirus
+
 <b>Europe</b><br />
 The Netherlands - covid spread indicator<br />
 https://covid.smartgraph.bi/

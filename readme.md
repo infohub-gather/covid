@@ -15,7 +15,7 @@ https://aim.stanford.edu/covid-19-evidence-service/<br />
 <br />
 ---<br />
 <b>Companies COVID response</b><br />
-A Star - NanoBio Lab
+A Star - NanoBio Lab Singapore
 https://www.a-star.edu.sg/nbl<br />
 
 ---<br />

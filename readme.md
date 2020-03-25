@@ -6,8 +6,13 @@ Gates Foundation therapeutics accelerator | 25-03-20 <br />
 https://www.gatesfoundation.org/TheOptimist/coronavirus
 
 <b>Europe</b><br />
-The Netherlands - covid spread indicator | 25-03-20 <br />
+<b>The Netherlands</b><br />
+Covid spread graphs |  25-03-20 <br />
 https://covid.smartgraph.bi/
+
+Helping hands sites | 25-03-20<br />
+https://www.blauwhelpt.nl/ | KLM initiative
+https://coronavirustechhandbook.com/home | Coronavirus tech handbook
 
 <b>USA</b><br />
 Stanford COVID-19 Evidence Service | 25-03-20 <br />

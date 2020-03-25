@@ -3,7 +3,7 @@ Bio.org tech companies overview / covid response<br />
 https://www.bio.org/policy/human-health/vaccines-biodefense/coronavirus
 
 <b>Europe</b><br />
-The Netherlands - disease spread indicator<br />
+The Netherlands - covid spread indicator<br />
 https://covid.smartgraph.bi/
 
 <b>USA</b><br />

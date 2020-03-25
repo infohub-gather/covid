@@ -1,5 +1,4 @@
 <b>Europe</b>
-
 The Netherlands<br />
 https://covid.smartgraph.bi/
 

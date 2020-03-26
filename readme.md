@@ -25,6 +25,11 @@ A Star - NanoBio Lab Singapore
 https://www.a-star.edu.sg/nbl<br />
 
 ---<br />
+<b>Low cost ventilator solutions</b><br />
+One of the first low-cost high-quality ventilators
+https://freebreathing.org/
+
+---<br />
 <b>Testing</b><br />
 5 minute tests | 25-03-20 <br />
 https://www.straitstimes.com/singapore/health/singapore-scientists-on-the-front-lines-of-fight-against-covid-19<br />

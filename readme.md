@@ -10,8 +10,9 @@ https://www.gatesfoundation.org/TheOptimist/coronavirus
 Covid spread graphs |  25-03-20 <br />
 https://covid.smartgraph.bi/
 
-Helping hands sites | 25-03-20<br />
+Helping hands sites | 26-03-20<br />
 https://www.blauwhelpt.nl/ | KLM initiative<br />
+https://helponsoogsten.nl/ | LTO Agrarisch<br />
 https://coronavirustechhandbook.com/home | Coronavirus tech handbook
 
 <b>USA</b><br />

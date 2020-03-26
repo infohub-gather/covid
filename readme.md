@@ -33,3 +33,8 @@ https://www.straitstimes.com/singapore/health/singapore-scientists-on-the-front-
 <b>Research</b><br />
 Persistence of Coronaviruses on surfaces
 https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext
+
+---<br/>
+<b>Disease progression / treatments</b><br />
+What to do when you are sick
+https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html

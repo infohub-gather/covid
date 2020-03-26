@@ -29,3 +29,7 @@ https://www.a-star.edu.sg/nbl<br />
 5 minute tests | 25-03-20 <br />
 https://www.straitstimes.com/singapore/health/singapore-scientists-on-the-front-lines-of-fight-against-covid-19<br />
 
+---<br/>
+<b>Research</b><br />
+Persistence of Coronaviruses on surfaces
+https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext

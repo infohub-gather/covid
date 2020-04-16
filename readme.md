@@ -44,10 +44,9 @@ http://biomed-sanity.com/
 
 <b>Dashboards</b><br />
 https://ncov2019.live/
-Live infection dashboard<br /><br />
-
+Live infection dashboard<br />
 http://quiverquant.com/covidtreatments/
-Currently running treatments (non-exhaustive AI pickup)<br /><br />
+Currently running treatments (non-exhaustive AI pickup)<br />
 
 ---<br/>
 <b>Disease progression / treatments</b><br />

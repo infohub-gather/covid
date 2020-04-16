@@ -42,6 +42,13 @@ https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltex
 <b>List of Preprint Articles</b><br />
 http://biomed-sanity.com/
 
+<b>Dashboards</b><br />
+https://ncov2019.live/
+Live infection dashboard<br /><br />
+
+http://quiverquant.com/covidtreatments/
+Currently running treatments (non-exhaustive AI pickup)<br /><br />
+
 ---<br/>
 <b>Disease progression / treatments</b><br />
 What to do when you are sick

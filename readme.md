@@ -6,6 +6,9 @@ Gates Foundation therapeutics accelerator | 25-03-20 <br />
 https://www.gatesfoundation.org/TheOptimist/coronavirus
 
 <b>Europe</b><br />
+ECDC risk assesment document<br />
+https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf
+
 <b>The Netherlands</b><br />
 Covid spread graphs |  25-03-20 <br />
 https://covid.smartgraph.bi/
